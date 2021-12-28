@@ -2,7 +2,8 @@
 <h3 align="center">Aspiring Game Developer | Data Analyst</h3>
 I'm a game developer who is currently working as intern @ <a href="https://https://www.outscal.com/">Outscal</a> who is passionate about making games, creating technology to elevate people, and building community. 
 
-## 🙋‍♂️ About Me
+<summary>## 🙋‍♂️ About Me</summary>
+
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
