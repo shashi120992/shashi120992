@@ -2,8 +2,7 @@
 <h3 align="center">Aspiring Game Developer | Data Analyst</h3>
 I'm a game developer who is currently working as intern @ <a href="https://https://www.outscal.com/">Outscal</a> who is passionate about making games, creating technology to elevate people, and building community. 
 
-<details>
-<summary>## 🙋‍♂️ About Me</summary>
+## 🙋‍♂️ About Me
 
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
@@ -13,8 +12,6 @@ I'm a game developer who is currently working as intern @ <a href="https://https
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
 
 - 📫 How to reach me **shashi120992@gmail.com**
-
-</details>
 
 ## 🚀 Languages and Tools:
 
