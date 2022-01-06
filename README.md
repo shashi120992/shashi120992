@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shashikanth Bhat</h1>
 <h3 align="center">Aspiring Game Developer | Data Analyst</h3>
 <p align="center">
-<a href = "mailto:shashi120992@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> </a>
-<a href = "https://www.linkedin.com/in/shashikanthbhat12/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
-<a href = "https://github.com/shashi120992/"><img src="https://img.icons8.com/color-glass/48/000000/github.png"/> </a>  
+<a href = "mailto:shashi120992@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> </a> || 
+<a href = "https://www.linkedin.com/in/shashikanthbhat12/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a> || 
+<a href = "https://github.com/shashi120992/"><img src="https://img.icons8.com/color-glass/48/000000/github.png"/> </a> || 
+ <a href = "https://shashi120992.wixsite.com/shashikanth"><img src="https://img.icons8.com/color/48/000000/domain--v1.png"/> </a> 
 </p>
 
 
@@ -28,7 +29,6 @@ I'm a game developer who is currently working as intern @ <a href="https://https
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>    
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-     alt="express" width="40" height="40"/> </a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
