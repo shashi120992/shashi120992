@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shashikanth Bhat</h1>
 <h3 align="center">Aspiring Game Developer | Data Analyst</h3>
 <p align="center">
-<a href = "mailto:shashi120992@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> </a>
-<a href = "https://www.linkedin.com/in/shashikanthbhat12/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
-<a href = "https://github.com/shashi120992/"><img src="https://img.icons8.com/color-glass/48/000000/github.png"/> </a>
- <a href = "https://shashi120992.wixsite.com/shashikanth"><img src="https://img.icons8.com/color/48/000000/domain--v1.png"/> </a>
+<a href = "mailto:shashi120992@gmail.com"><img src="https://img.icons8.com/nolan/64/gmail-new.png"/> </a>
+<a href = "https://www.linkedin.com/in/shashikanthbhat12/"><img src="https://img.icons8.com/nolan/64/linkedin.png"/> </a>
+<a href = "https://github.com/shashi120992/"><img src="https://img.icons8.com/nolan/50/github.png"/> </a>
+<a href = "https://shashi120992.wixsite.com/shashikanth"><img src="https://img.icons8.com/nolan/64/workday.png"/> </a>
 </p>
 
 
@@ -57,14 +57,6 @@ I'm a game developer who is currently working as intern @ <a href="https://https
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
-
-<a href = "mailto:shashi120992@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> </a>
-<a href = "https://www.linkedin.com/in/shashikanthbhat12/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
-<a href = "https://github.com/shashi120992/"><img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-  
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/shashi120992/github-profile-views-counter">
