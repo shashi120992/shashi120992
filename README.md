@@ -22,9 +22,9 @@ I'm a game developer who is currently working as intern @ <a href="https://https
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://replit.com/@shashi120992" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://replit.com/@shashi120992" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://replit.com/@shashi120992" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/nolan/64/unity.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>    
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
