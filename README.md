@@ -36,7 +36,7 @@ I'm a game developer who is currently working as intern @ <a href="https://https
 
 <p align="left">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shashi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=buefy-dark&hide_border=true&stroke=0000&background=0000ffff"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shashi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=buefy-dark&hide_border=true&stroke=0000&background=ffffff00"/>
     </a>
 </p>
 
