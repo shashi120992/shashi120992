@@ -31,12 +31,11 @@ I'm a game developer who is currently working as intern @ <a href="https://https
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+## 🔥 Streak stats
 
 <p align="left">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shashi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=buefy-dark&hide_border=true&stroke=0000&background=ffffff00"/>
+    <a href="https://github.com/shashi120992/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shashi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi120992&theme=buefy-dark&hide_border=true&stroke=0000&background=ffffff00"/>
     </a>
 </p>
 
@@ -47,8 +46,7 @@ I'm a game developer who is currently working as intern @ <a href="https://https
     <a href="https://github.com/shashi120992/github-readme-stats"><img alt="Shashikanth Bhat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shashi120992&show_icons=true&count_private=true&theme=vue&hide_border=true" /></a>
   <a href="https://github.com/shashi120992/github-readme-stats"><img alt="Shashi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi120992&langs_count=8&count_private=true&layout=compact&theme=vue&hide_border=true" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+  
 
 <br/>
 <br/>
