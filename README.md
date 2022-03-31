@@ -55,10 +55,3 @@ I'm a game developer who is currently working as intern @ <a href="https://https
 
 <br/>
 <br/>
-
-
-## ❤ Views and Followers
-<a href="https://github.com/shashi120992/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=shashi120992">
-</a>
-<a href="https://github.com/shashi120992?tab=followers"><img src="https://img.shields.io/github/followers/shashi120992?label=Followers&style=social" alt="GitHub Badge"></a>
