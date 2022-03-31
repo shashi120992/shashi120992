@@ -51,7 +51,7 @@ I'm a game developer who is currently working as intern @ <a href="https://https
 <br/>
 <br/>
 
-<a href="https://github.com/shashi120992/github-readme-activity-graph"><img alt="Shashikanth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shashi120992&bg_color=FFFFFF&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/shashi120992/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shashi120992&bg_color=FFFFFF&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
