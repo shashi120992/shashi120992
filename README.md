@@ -4,7 +4,7 @@
 <a href = "mailto:shashi120992@gmail.com"><img src="https://img.icons8.com/nolan/64/gmail-new.png"/> </a>
 <a href = "https://www.linkedin.com/in/shashikanthbhat12/"><img src="https://img.icons8.com/nolan/64/linkedin.png"/> </a>
 <a href = "https://github.com/shashi120992/"><img src="https://img.icons8.com/nolan/64/github.png"/> </a>
-<a href = "https://shashi120992.wixsite.com/shashikanth"><img src="https://img.icons8.com/nolan/64/workday.png"/> </a>
+<a href = "https://shashi120992.wixsite.com/shashi12"><img src="https://img.icons8.com/nolan/64/workday.png"/> </a>
 </p>
 
 
